@@ -1,0 +1,62 @@
+body
+	{
+		background-color:lightskyblue 
+	}
+h
+	{
+		font-family: 'Bangers', cursive;
+		font-size: 60px;
+		color: #4B0082;
+		background-color: linen;
+		border: 3px solid black;
+	}
+
+h1 
+	{
+		font-family: 'Handlee', cursive;
+		font-size: 30px;
+		color: firebrick;
+		background-color: darkgray;
+		border: 5px solid firebrick;
+	}
+
+h2 
+	{
+		font-family: 'Handlee', cursive;
+		font-size: 30px;
+		color: deeppink;
+		background-color: tan;
+		border: 4px dotted deeppink
+	}
+
+h3 
+	{
+		font-family: 'Handlee', cursive;
+		color: goldenrod;
+		background-color: darkorchid;
+	}
+
+ul 
+	{
+		font-family: 'Jura', sans-serif;
+		font-size: 20px;
+		color: darkgreen;
+		background-color: darkorange;
+	}
+
+a:link, a:visited
+	{
+		color: cadetblue;
+		background-color: whitesmoke;
+		padding: 10px;
+		border-radius: 25px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;	
+	}
+
+a:hover, a:active
+	{
+		background-color: turquoise;
+		text-decoration: none;
+	}
